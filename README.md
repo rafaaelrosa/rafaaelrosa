@@ -111,6 +111,14 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
             height="40"
         />
     </a>
+        <a href="https://www.debian.org//" target="_blank">
+        <img 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" 
+            alt="debian" 
+            width="40" 
+            height="40"
+        />
+    </a>
   	<a href="https://azure.microsoft.com/" target="_blank">
 		<img
             src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
