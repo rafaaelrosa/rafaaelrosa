@@ -50,7 +50,7 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     <span></span>
     <a href="https://nodejs.org/" target="_blank">
 		<img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
             alt="react" 
             width="40" 
             height="40"
