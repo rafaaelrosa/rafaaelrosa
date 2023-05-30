@@ -160,6 +160,6 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     />
 </p>
 
-<div>
+<div style="display: inline-block" > 
     ![Snake animation](https://github.com/rafaaelrosa/rafaaelrosa/blob/output/github-contribution-grid-snake.svg)
 </div>
