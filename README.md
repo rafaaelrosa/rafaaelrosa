@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Rafael Rosa
+## 👋 Hello! I'm Rafael Rosa
 
 <p align="left">
   <a href="https://linkedin.com/in/rafaaelrosa" target="_blank">
@@ -9,13 +9,13 @@
   </a>
 </p>
 
-### 🎮 Atualmente Aprendendo
+### 🎮 Learning ..
 
-🎯 **Desenvolvimento de Jogos com Godot Engine**
-- Explorando criação de jogos 2D
-- Aprendendo GDScript e arquitetura de jogos
-- Desenvolvendo projetos pessoais para praticar game design
-- Experimentando com física, animações e sistemas de gameplay
+🎯 **Game Development with Godot Engine**
+- Exploring 2D and 3D game creation
+- Learning GDScript and game architecture
+- Developing personal projects to practice game design
+- Experimenting with physics, animations, and gameplay systems
 
 <p align="left">
   <a href="https://godotengine.org/" target="_blank">
