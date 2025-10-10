@@ -154,13 +154,5 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
         height="220"
     />
 </p>
-<p>
-    <img 
-        src="https://github-profile-trophy.vercel.app/?username=rafaaelrosa&theme=flat&column=7&margin-w=10" 
-        alt="logo" 
-        height="160" 
-        align="center"
-    />
-</p>
 
 ![Snake animation](https://github.com/rafaaelrosa/rafaaelrosa/blob/output/github-contribution-grid-snake.gif)
