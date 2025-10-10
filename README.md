@@ -9,6 +9,20 @@
   </a>
 </p>
 
+### 🎮 Atualmente Aprendendo
+
+🎯 **Desenvolvimento de Jogos com Godot Engine**
+- Explorando criação de jogos 2D
+- Aprendendo GDScript e arquitetura de jogos
+- Desenvolvendo projetos pessoais para praticar game design
+- Experimentando com física, animações e sistemas de gameplay
+
+<p align="left">
+  <a href="https://godotengine.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  </a>
+</p>
+
 ### ⭐ Technologies
 Any technology in these lists I either use on a daily basis or I am familiar with.
 <p align="left">
@@ -136,11 +150,6 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
   </p>
   
 <p>
-	<img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelrosa&theme=dark"
-        alt="logo"
-        height="220"
-    />
 	<img
         src="https://github-readme-stats.vercel.app/api?username=rafaaelrosa&show_icons=true&theme=dark&count_private=true"
         alt="logo" 
@@ -151,6 +160,13 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=rafaaelrosa&theme=dark" 
         alt="github streak" 
+        height="220"
+    />
+</p>
+<p>
+	<img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelrosa&theme=dark"
+        alt="logo"
         height="220"
     />
 </p>
