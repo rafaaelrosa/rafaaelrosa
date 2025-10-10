@@ -152,21 +152,19 @@ Any technology in these lists I either use on a daily basis or I am familiar wit
 <p>
 	<img
         src="https://github-readme-stats.vercel.app/api?username=rafaaelrosa&show_icons=true&theme=dark&count_private=true"
-        alt="logo" 
+        alt="GitHub Stats" 
+        height="220"
+    />
+	<img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelrosa&theme=dark"
+        alt="Top Languages"
         height="220"
     />
 </p>
 <p>
     <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=rafaaelrosa&theme=dark" 
-        alt="github streak" 
-        height="220"
-    />
-</p>
-<p>
-	<img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaelrosa&theme=dark"
-        alt="logo"
+        alt="GitHub Streak" 
         height="220"
     />
 </p>
