@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Rafael Rosa
 
 <p align="left">
-  <a href="https://linkedin.com/in/rafaaelrosa" target="_blank">
+  <a href="https://linkedin.com/in/rafaaelrosa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:c.rafaelneto7@gmail.com">
@@ -18,7 +18,7 @@
 - Experimenting with physics, animations, and gameplay systems
 
 <p align="left">
-  <a href="https://godotengine.org/" target="_blank">
+  <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
   </a>
 </p>
