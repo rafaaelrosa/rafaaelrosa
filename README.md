@@ -75,8 +75,4 @@ is read item by item and categorised, a Pix or card proof becomes a single expen
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaaelrosa&show_icons=true&hide_border=true&theme=github_dark_dimmed" alt="GitHub stats" height="150"/>
-</p>
-
 ![Snake animation](https://github.com/rafaaelrosa/rafaaelrosa/blob/output/github-contribution-grid-snake-dark.svg)
