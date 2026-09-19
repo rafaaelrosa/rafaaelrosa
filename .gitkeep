@@ -1,0 +1,2 @@
+# This file ensures the output directory is tracked by git
+# The Snake animation SVG will be generated here by GitHub Actions
